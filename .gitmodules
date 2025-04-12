@@ -4,3 +4,6 @@
 [submodule "irc"]
 	path = irc
 	url = https://github.com/minetest-mods/irc.git
+[submodule "digistuff"]
+	path = digistuff
+	url = https://github.com/mt-mods/digistuff.git
